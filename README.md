@@ -1,2 +1,5 @@
 # berlin_slides
-Slides from talks given at WiMLDS berlin chapter events
+
+With permission from our amazing speakers, this repository contains the slides from talks given at WiMLDS berlin chapter events.
+
+
